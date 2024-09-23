@@ -2,6 +2,7 @@
 import React from 'react';
 import './Products.css';
 
+
 const ProductCard = ({ image, title, price, rating, reviews }) => {
   return (
     <>
